@@ -1,0 +1,3 @@
+- 👋 Hi, I’m GKILLA1
+- 👀 I’m interested in Python/Node.js
+- 🌱 I’m currently working on discord gens/tools
