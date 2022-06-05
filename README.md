@@ -1,3 +1,5 @@
 - 👋 Hi, I’m GKILLA
 - 👀 I’m interested in Python/Node.js
 - 🌱 I’m currently working on discord gens/tools
+- > Im a very bad self taught with little time programmer xD
+-
